@@ -3,7 +3,7 @@ import React from "react";
 const Resume = () => (
   <div>
     <h3>Resume' </h3>
-    <h5>Rseume Download <a href="TerryThompsonWebDeveloperResume.pdf" download="TerryThompsonWebDeveloperResume.pdf"><img src="./assets/img/resume.png" width='42px' alt = "Resume" /></a>
+    <h5>Resume' Download <a href="TerryThompsonWebDeveloperResume.pdf" download="TerryThompsonWebDeveloperResume.pdf"><img src="./assets/img/resume.png" width='42px' alt = "Resume" /></a>
     
     </h5>
     

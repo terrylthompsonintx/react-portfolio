@@ -4,6 +4,7 @@ function Footer(){
   return (
     
     <footer className="App-footer">
+      <div class='foot'>  
       <hr />
       <h5>Contact </h5>
            <ul className='noBullets'>
@@ -12,6 +13,7 @@ function Footer(){
                 <li><a href="https://github.com/terrylthompsonintx" ><img src="./assets/img/githubocto.png" alt="An icon of Github" width='42px' /></a></li>
                 <li><a href="https://www.linkedin.com/in/terrylthompson/" ><img src="./assets/img/linkb.jpg" width='42px' alt='An icon of LinkedIn'></img></a></li>
             </ul>
+      </div>      
       </footer>
   )
 }
