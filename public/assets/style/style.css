@@ -1,0 +1,40 @@
+body {
+    background-color: royalblue ;
+    color: whitesmoke;
+    font-family: 'Lobster', cursive;
+
+}
+
+.noBullets{
+    list-style: none;
+}
+.noBullets li{
+    display: inline;
+    padding: 10rem;
+}
+
+.mePic{
+    padding-left: 3rem;
+    border-radius: 12px;
+    
+}
+
+h1, h2, h3, h4, h5{
+    text-align: center;
+}
+
+.proList{
+    text-align: center;
+    list-style: none;
+}
+.cForm{
+    text-align: center;
+}
+
+.aboutPic{
+    margin-right: 3rem;
+    background-image: url("../img/heroCropped1.png");
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}

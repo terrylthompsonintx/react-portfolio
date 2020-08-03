@@ -2,13 +2,13 @@ import React from "react";
 
 const Resume = () => (
   <div>
-    <h1>Resume' </h1>
-    <div>Rseume Download <a href="TerryThompsonWebDeveloperResume.pdf" download="TerryThompsonWebDeveloperResume.pdf"><img src="./assets/img/resume.png" width='42px' alt = "Resume" /></a>
+    <h3>Resume' </h3>
+    <h5>Rseume Download <a href="TerryThompsonWebDeveloperResume.pdf" download="TerryThompsonWebDeveloperResume.pdf"><img src="./assets/img/resume.png" width='42px' alt = "Resume" /></a>
     
-    </div>
+    </h5>
     
     <h4><img src= "./assets/img/tech.gif" alt="Proficiencies" />Proficiencies</h4>
-    <ul>
+    <ul class='proList'>
       <li>React</li>
       <li>Mongo/Mongoose</li>
       <li>MySQL/Sequelize</li>

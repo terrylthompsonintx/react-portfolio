@@ -2,7 +2,7 @@ import React from "react";
 
 const Portfolio = () => (
   <div>
-    <h1>PortFolio</h1>
+    <h3>PortFolio</h3>
     <div class='row'>
                     <div class='col-3'>
                         <img src='./assets/img/hearth.png' class="card-img-top" alt="..." />
